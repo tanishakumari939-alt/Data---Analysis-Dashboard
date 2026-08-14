@@ -8,7 +8,7 @@ The objective of this Healthcare Data Analysis project is to analyze patient dat
 -	What is the average waiting time for patients?
 -	What percentage of patients are male vs. female?
 -	Which treatment has the best recovery/improvement outcome?
--	Which combination ofmedical condition + treatment has the highest average bill?
+-	Which combination of medical condition + treatment has the highest average bill?
 -	What are the top 5 hospitals based on patient satisfaction?
 -	Which hospital provides the best combination of low average bill + high satisfaction?
 -	How many male, female and other patients are there?
